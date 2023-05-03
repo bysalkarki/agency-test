@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="608653b8-8a87-49f4-81f0-b030242c3f63" name="Changes" comment="france tourasdasdd" />
+    <list default="true" id="608653b8-8a87-49f4-81f0-b030242c3f63" name="Changes" comment="france tourasdasddasdasd">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683093744481</updated>
-      <workItem from="1683093746357" duration="477000" />
+      <workItem from="1683093746357" duration="920000" />
     </task>
     <task id="LOCAL-00001" summary="asdasdadssdasd">
       <created>1683093813045</created>
@@ -79,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683094187471</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="france tourasdasddasdasd">
+      <created>1683094229859</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683094229859</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +98,7 @@
     <MESSAGE value="asdasdadssdasd" />
     <MESSAGE value="france tour" />
     <MESSAGE value="france tourasdasdd" />
-    <option name="LAST_COMMIT_MESSAGE" value="france tourasdasdd" />
+    <MESSAGE value="france tourasdasddasdasd" />
+    <option name="LAST_COMMIT_MESSAGE" value="france tourasdasddasdasd" />
   </component>
 </project>

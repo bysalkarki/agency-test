@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="608653b8-8a87-49f4-81f0-b030242c3f63" name="Changes" comment="france tourasdasddasdasd">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="608653b8-8a87-49f4-81f0-b030242c3f63" name="Changes" comment="asdf">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683093744481</updated>
       <workItem from="1683093746357" duration="1581000" />
-      <workItem from="1683102696950" duration="15000" />
+      <workItem from="1683102696950" duration="72000" />
     </task>
     <task id="LOCAL-00001" summary="asdasdadssdasd">
       <created>1683093813045</created>
@@ -97,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683094716761</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="asdf">
+      <created>1683102719148</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683102719148</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +114,7 @@
     <MESSAGE value="france tour" />
     <MESSAGE value="france tourasdasdd" />
     <MESSAGE value="france tourasdasddasdasd" />
-    <option name="LAST_COMMIT_MESSAGE" value="france tourasdasddasdasd" />
+    <MESSAGE value="asdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="asdf" />
   </component>
 </project>
